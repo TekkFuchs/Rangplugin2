@@ -1,0 +1,7 @@
+ranks:
+  admin:
+    prefix: "&c[Admin]"
+  mod:
+    prefix: "&2[Mod]"
+  spieler:
+    prefix: "&7[Spieler]"

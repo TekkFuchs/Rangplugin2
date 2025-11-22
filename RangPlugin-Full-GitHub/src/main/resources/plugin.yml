@@ -1,0 +1,11 @@
+name: RangPlugin
+version: 1.0
+main: de.chatgpt.rangplugin.RangPlugin
+api-version: 1.21
+commands:
+  ränge:
+    description: Öffnet das Rang-Menü
+permissions:
+  rang.menu:
+    description: Öffnet das Rang-Menü
+    default: op
